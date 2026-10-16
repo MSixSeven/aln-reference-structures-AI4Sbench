@@ -1,0 +1,110 @@
+{
+  "version": "1.0",
+  "role": "reference",
+  "file_count": 10,
+  "format": "VASP POSCAR",
+  "coordinates_modified": false,
+  "data_license": "not specified",
+  "files": [
+    {
+      "case": "step_y",
+      "role": "reference",
+      "file": "AlN_psf_Ystep-20y.vasp",
+      "original_relative_path": "targets/step/AlN_psf_Ystep-20y.vasp",
+      "Al": 880,
+      "N": 880,
+      "bytes": 93550,
+      "sha256": "febc7dcbe76d29d0c6e89b433dbf53cdc384dbe48e780efd4461362ab417820a"
+    },
+    {
+      "case": "step_z",
+      "role": "reference",
+      "file": "AlN_psf_Zstep-20z.vasp",
+      "original_relative_path": "targets/step/AlN_psf_Zstep-20z.vasp",
+      "Al": 880,
+      "N": 880,
+      "bytes": 93551,
+      "sha256": "d055b202d7cd44f24a48efdd07f57c9a0aa37a9d9ee554762cdbe149c1061e21"
+    },
+    {
+      "case": "a1",
+      "role": "reference",
+      "file": "AlN-a1-ortho-large.vasp",
+      "original_relative_path": "targets/corner/AlN-a1-ortho-large.vasp",
+      "Al": 828,
+      "N": 828,
+      "bytes": 88027,
+      "sha256": "72aa33446a6032d567a03bd8c9aa5439c9f9979c78760543d82674536c8bc2e7"
+    },
+    {
+      "case": "a2",
+      "role": "reference",
+      "file": "AlN-a2-ortho-large.vasp",
+      "original_relative_path": "targets/corner/AlN-a2-ortho-large.vasp",
+      "Al": 744,
+      "N": 744,
+      "bytes": 79123,
+      "sha256": "f028d388814b25291d0ddc173135ec15ee33511f2c8978154bb98c4cc0ec1e9f"
+    },
+    {
+      "case": "a3",
+      "role": "reference",
+      "file": "AlN-a3-ortho-large.vasp",
+      "original_relative_path": "targets/corner/AlN-a3-ortho-large.vasp",
+      "Al": 788,
+      "N": 788,
+      "bytes": 83787,
+      "sha256": "78b0ddd00fe5cb088bb78f52db09bcdc98ca1003d813243893d1f5a3fa6eecc0"
+    },
+    {
+      "case": "b1",
+      "role": "reference",
+      "file": "AlN-b1-ortho-large.vasp",
+      "original_relative_path": "targets/corner/AlN-b1-ortho-large.vasp",
+      "Al": 696,
+      "N": 696,
+      "bytes": 74035,
+      "sha256": "edb48736374e38c49dcf0d85e70d8692cb951ee2e6f08156cd454a40a976e4ab"
+    },
+    {
+      "case": "b2",
+      "role": "reference",
+      "file": "AlN-b2-ortho-large.vasp",
+      "original_relative_path": "targets/corner/AlN-b2-ortho-large.vasp",
+      "Al": 732,
+      "N": 732,
+      "bytes": 77851,
+      "sha256": "89fa2278511cedd23a8d9979a22ffd976076ad422d272503dd0a299bf2396705"
+    },
+    {
+      "case": "b3",
+      "role": "reference",
+      "file": "AlN-b3-ortho-large.vasp",
+      "original_relative_path": "targets/corner/AlN-b3-ortho-large.vasp",
+      "Al": 656,
+      "N": 656,
+      "bytes": 69795,
+      "sha256": "e2ca2e35fe156c448e2ebb22dc56af64ad695b92fc5790b5406c75559a2dda31"
+    },
+    {
+      "case": "hexagonal",
+      "role": "reference",
+      "file": "AlN-hexagonal-ortho.vasp",
+      "original_relative_path": "targets/hexagonal/AlN-hexagonal-ortho.vasp",
+      "Al": 2964,
+      "N": 2964,
+      "bytes": 314446,
+      "sha256": "28b8849c3a719191dd35f03a79d08d53a7ebca49331d6df323a2ca9ad5bb1936"
+    },
+    {
+      "case": "mixed_ac",
+      "role": "reference",
+      "file": "AlN_a+c_dislocation.vasp",
+      "original_relative_path": "targets/a+c_dislocation/AlN_a+c_dislocation.vasp",
+      "Al": 11484,
+      "N": 11484,
+      "bytes": 1355406,
+      "sha256": "5a4d4d1510a764a77d19c02d1d38e096b9e1178c8c010f069097234b73a43049"
+    }
+  ]
+}
